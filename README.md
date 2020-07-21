@@ -1,1 +1,3 @@
-# wattos-port-scanner
+# Usage
+
+python3 scanner.py <ip>
